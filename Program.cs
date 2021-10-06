@@ -45,7 +45,7 @@ namespace Part_6_Percentages_Actual
             }
 
             result = (((double)above / total) * 100);
-            Console.WriteLine("Thank you, the percentage grade in your class is " + result + "%");
+            Console.WriteLine("Thank you, the percentage grade in your class is " + result + "% ");
 
             Console.ReadLine();
 
